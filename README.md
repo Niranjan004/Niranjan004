@@ -1,4 +1,6 @@
-I am currently pursuing my B.Tech 3rd year in Electronics and Computer engineering at Vit Chennai. I love to explore and learn about various fields and gigs.
+Hi
+
+Niranjan here. I am currently pursuing my B.Tech 3rd year in Electronics and Computer engineering at Vit Chennai. I love to explore and learn about various fields and gigs.
 
 A dedicated and enthusiastic professional deeply committed to the realms of Data Science and Software Engineering. I have been developing my skills and doing projects in both fields.
 
