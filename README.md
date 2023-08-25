@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Niranjan004
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I am currently pursuing my B.Tech 3rd year in Electronics and Computer engineering at Vit Chennai. I love to explore and learn about various fields and gigs.
 
-<!---
-Niranjan004/Niranjan004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A dedicated and enthusiastic professional deeply committed to the realms of Data Science and Software Engineering. I have been developing my skills and doing projects in both fields.
+
+I have worked with various aspects of machine learning like NLP, regression, classification trees and deep learning.
+
+I've explored the field of cloud computing and worked with various AWS services. I have a concrete knowledge of EC2 instances, DynamoDB and AWS IoT.
